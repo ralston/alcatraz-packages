@@ -79,7 +79,7 @@
       },
       {
         "name": "Backlight",
-        "url": "https://github.com/limejelly/Backlight-for-XCode",
+        "url": "https://github.com/ralston/Backlight-for-XCode.git",
         "description": "Highlights the current editing line in Xcode.",
         "screenshot": "https://raw.githubusercontent.com/limejelly/Backlight-for-XCode/master/screenshot.png"
       },
